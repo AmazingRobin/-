@@ -10,7 +10,7 @@ npm create vite@latest vue-sub-project -- --template vue
 
 Vue3的技术栈Vue+ts作为主应用
 
-React的技术栈React+js作为子应用一 
+React的技术栈React+ts作为子应用一 
 
 Vue3的技术栈Vue+js作为子应用二
 
